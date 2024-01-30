@@ -21,6 +21,7 @@ Scripts Folder:
 
 A Python Script has been added which is used to convert CSV data into SQL Data. 
 This step is crucial before starting the project since we are querying in MySQL and the data should be in a readable format for MySQL since MySQL cannot read CSV data directly.
+
 The SQL file is the solution file which solves most of the problems given in the problem set. Some problems may have multiple solutions while some may have a single solution. 
 I have also put my own spin on it by displaying some extra information in some queries eventhough it was not explicitly asked but was relevant.
 
