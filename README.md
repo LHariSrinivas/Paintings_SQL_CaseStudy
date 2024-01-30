@@ -1,4 +1,4 @@
-SQL Case Study on Paintings Dataset:
+# SQL Case Study on Paintings Dataset
 
 This project involves the analysis of an art database to identify the most and least expensive paintings, along with details about the artists and museums where they are placed and many more. 
 The database consists of tables such as artists, work, product_size, and museum.
@@ -25,3 +25,6 @@ This step is crucial before starting the project since we are querying in MySQL 
 The SQL file is the solution file which solves most of the problems given in the problem set. Some problems may have multiple solutions while some may have a single solution. 
 I have also put my own spin on it by displaying some extra information in some queries eventhough it was not explicitly asked but was relevant.
 
+Massive thanks to Thoufiq and his YouTube Channel **"techTFQ"** for giving this SQL case study and for curating an exhaustive list of Problems. 
+
+Here's the link to his channel, go check it out. https://www.youtube.com/@techTFQ
