@@ -3,7 +3,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-conn_string = "mysql+mysqlconnector://root:hari1672*@localhost:3306/paintings"
+conn_string = "mysql+mysqlconnector://root:yourpassword@localhost:3306/paintings"
             #mysql+<drivername>://<username>:<password>@<server>:<port>/dbname
 db = create_engine(conn_string)
 conn = db.connect()
